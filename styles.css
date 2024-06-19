@@ -1,0 +1,21 @@
+body {
+    background-color: #eeeeee;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.portrait-container {
+    display: flex;
+    justify-content: right;
+}
+
+.portrait {
+    width: 450px; /* Adjust the width as needed */
+    height: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
